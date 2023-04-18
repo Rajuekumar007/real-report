@@ -1,4 +1,4 @@
-pkg update -y
+#pkg update -y
 
 pkg upgrade -y
 
