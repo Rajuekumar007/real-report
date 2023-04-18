@@ -15,4 +15,4 @@ pip install rich
 
 pip install bs4
 
-rm -rf Old-Crack
+
